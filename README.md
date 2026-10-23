@@ -160,3 +160,10 @@ A mission is three things (see `challenges.py`):
 * **Currency:** amounts are in Vietnamese đồng (₫), written like `1.500.000 ₫` with no decimals. You can type amounts with or without dots (`1500000` or `1.500.000`). To change the currency, edit `CURRENCY_SYMBOL` and `format_money` in `finance.py`, and `money_input` in `components.py`.
 
 *Lessons are general education, not financial advice.*
+
+---
+
+## Giấy phép / License
+
+* **Mã nguồn:** MIT - xem [LICENSE](LICENSE).
+* Bài học và câu hỏi là nội dung giáo dục tự biên soạn; không phải lời khuyên tài chính.
