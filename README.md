@@ -1,5 +1,9 @@
 # FinWise — money manager + financial literacy academy
 
+> **Tải FinWise.exe cho Windows:** [Releases](https://github.com/Codeman28/finwise-desktop/releases/latest) - nhấn đúp để chạy, không cần cài Python.
+> Phiên bản điện thoại/web: https://github.com/Codeman28/finwise-mobile
+
+
 FinWise is a Windows desktop app with two halves:
 
 1. **Real money management**: track income and expenses, set monthly budgets, save toward goals, and see it all on a dashboard.
