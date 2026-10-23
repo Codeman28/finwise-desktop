@@ -1,0 +1,6 @@
+# Runtime: Flet = write the UI in Python, drawn by Flutter
+flet[all]==1.0.1
+
+# Build tools: turn the app into a single FinWise.exe + draw the icon
+pyinstaller>=6.10
+pillow>=10.0

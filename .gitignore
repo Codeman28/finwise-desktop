@@ -1,0 +1,10 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.spec
+tests/_tmp_data.json
+*.log
+*.exe
+.idea/
+.vscode/
